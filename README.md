@@ -145,9 +145,9 @@ To work as a **Cybersecurity Analyst / SOC Analyst** and apply my knowledge in *
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suryagandhan&layout=compact&theme=tokyonight"/>
 </p>
----
+<!-- ---
 
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/suryagandhan/suryagandhan/blob/output/github-contribution-grid-snake.svg)
-
+ -->
