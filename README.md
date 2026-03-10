@@ -13,7 +13,7 @@ My goal is to start my career as a **Cybersecurity Analyst / SOC Analyst** and c
 
 ---
 
-# 🚀 About Me
+### 🚀 About Me
 
 * 🎓 Final Year Cybersecurity Student
 * 🔬 Researcher in **Phishing Detection using NLP**
@@ -23,7 +23,7 @@ My goal is to start my career as a **Cybersecurity Analyst / SOC Analyst** and c
 
 ---
 
-# 🛡️ Cybersecurity Skills
+### 🛡️ Cybersecurity Skills
 
 * Network Security
 * Phishing Detection
@@ -34,7 +34,7 @@ My goal is to start my career as a **Cybersecurity Analyst / SOC Analyst** and c
 
 ---
 
-# 💻 Programming & Data Skills
+### 💻 Programming & Data Skills
 
 * Python
 * SQL
@@ -44,7 +44,7 @@ My goal is to start my career as a **Cybersecurity Analyst / SOC Analyst** and c
 
 ---
 
-# 🧰 Tools & Technologies
+### 🧰 Tools & Technologies
 
 * Linux
 * Splunk
@@ -55,20 +55,20 @@ My goal is to start my career as a **Cybersecurity Analyst / SOC Analyst** and c
 
 ---
 
-# 🔬 Featured Project
+### 🔬 Featured Project
 
-## 🔬 [BERT-Based Phishing Detection System](https://github.com/suryagandhan/BERT_Phishing_System)
+#### 🔬 [BERT-Based Phishing Detection System](https://github.com/suryagandhan/BERT_Phishing_System)
 
 An advanced phishing detection system that uses **Natural Language Processing and BERT deep learning models** to identify phishing attempts in real-time.
 
-### Key Features
+#### Key Features
 
 * Detect phishing text and URLs
 * NLP based feature extraction
 * Deep learning classification using BERT
 * High accuracy phishing detection
 
-### Technologies Used
+#### Technologies Used
 
 * Python
 * Transformers (BERT)
@@ -77,9 +77,9 @@ An advanced phishing detection system that uses **Natural Language Processing an
 
 ---
 
-# 📊 Security Data Analysis Projects
+### 📊 Security Data Analysis Projects
 
-### Security Log Analysis
+#### Security Log Analysis
 
 Analyzing security logs to identify suspicious behavior and attack patterns.
 
@@ -88,7 +88,7 @@ Python, Pandas
 
 ---
 
-### Network Traffic Analysis
+#### Network Traffic Analysis
 
 Analyzing network traffic datasets to detect anomalies and potential threats.
 
@@ -97,7 +97,7 @@ Python, Data Analysis
 
 ---
 
-# 📜 Certifications
+### 📜 Certifications
 
 * Cisco Networking Basics
 * Cisco Introduction to Cybersecurity
@@ -109,7 +109,7 @@ Python, Data Analysis
 
 ---
 
-# 📄 Research & Publications
+### 📄 Research & Publications
 
 📑 **Developing an NLP-Based System to Detect Phishing Attempts in Real-Time**
 Published in IJARESM
@@ -119,12 +119,12 @@ Presented at ICATS-2024
 
 ---
 
-# 🎯 Career Objective
+### 🎯 Career Objective
 
 To work as a **Cybersecurity Analyst / SOC Analyst** and apply my knowledge in **threat detection, security monitoring, and AI-based cybersecurity systems**.
 
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/suryagandhan"><img src="https://skillicons.dev/icons?i=linkedin" style="margin-right:12px;"></a>
@@ -137,7 +137,7 @@ To work as a **Cybersecurity Analyst / SOC Analyst** and apply my knowledge in *
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=suryagandhan&show_icons=true&theme=tokyonight"/>
 </p>
